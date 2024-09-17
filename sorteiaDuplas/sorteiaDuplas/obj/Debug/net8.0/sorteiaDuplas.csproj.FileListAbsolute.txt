@@ -1,0 +1,14 @@
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\bin\Debug\net8.0\sorteiaDuplas.exe
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\bin\Debug\net8.0\sorteiaDuplas.deps.json
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\bin\Debug\net8.0\sorteiaDuplas.runtimeconfig.json
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\bin\Debug\net8.0\sorteiaDuplas.dll
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\bin\Debug\net8.0\sorteiaDuplas.pdb
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\sorteiaDuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\sorteiaDuplas.AssemblyInfoInputs.cache
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\sorteiaDuplas.AssemblyInfo.cs
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\sorteiaDuplas.csproj.CoreCompileInputs.cache
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\sorteiaDuplas.dll
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\refint\sorteiaDuplas.dll
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\sorteiaDuplas.pdb
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\sorteiaDuplas.genruntimeconfig.cache
+C:\Users\Alain\source\repos\sorteiaDuplas\sorteiaDuplas\obj\Debug\net8.0\ref\sorteiaDuplas.dll
